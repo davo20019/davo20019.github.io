@@ -1,0 +1,167 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.702f133743922836fb83.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-c2fe8482057191dca484.js
+  Cache-Control: public, max-age=31536000, immutable
+/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-51467e561973e1e0fb3a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-5f2eab8dd5ed29e02070.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-684318e1a3f43a9e8675.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-e0dfdae6944ed088fa3e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-dab08ee5de84fd94c6e4.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-f600a0dcdbbe2ab3be17.js
+  Cache-Control: public, max-age=31536000, immutable
+/f0e45107-b3fb87956e69fc692194.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-704d73b5abe836ad355e.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/davidloor.com/
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-51467e561973e1e0fb3a.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/blog
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-5f2eab8dd5ed29e02070.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/tags
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-684318e1a3f43a9e8675.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/introduction-to-defence-against-the-dark-arts
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/introduction-to-defence-against-the-dark-arts/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/fantastic-beasts-and-where-to-find-them
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/fantastic-beasts-and-where-to-find-them/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/curses-counter-curses-and-more
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/curses-counter-curses-and-more/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/harry-potter-and-the-half-blood-prince
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/harry-potter-and-the-half-blood-prince/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/about
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-e0dfdae6944ed088fa3e.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/tags/dark-arts
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/tags/dark-arts/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/tags/highlight
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/tags/highlight/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/tags/novel
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/tags/novel/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/tags/tutorial
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davidloor.com/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/tags/tutorial/page-data.json>; rel=preload; as=fetch; crossorigin
+/davidloor.com/offline-plugin-app-shell-fallback/
+  Link: </davidloor.com/webpack-runtime-dab08ee5de84fd94c6e4.js>; rel=preload; as=script
+  Link: </davidloor.com/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davidloor.com/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davidloor.com/app-704d73b5abe836ad355e.js>; rel=preload; as=script
+  Link: </davidloor.com/component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js>; rel=preload; as=script
+  Link: </davidloor.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davidloor.com/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
