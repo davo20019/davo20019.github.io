@@ -1,0 +1,167 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.218dd39923275ff7089f.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-c2fe8482057191dca484.js
+  Cache-Control: public, max-age=31536000, immutable
+/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-51467e561973e1e0fb3a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-5f2eab8dd5ed29e02070.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-684318e1a3f43a9e8675.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-e0dfdae6944ed088fa3e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-ccec649333aa2009a959.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-f600a0dcdbbe2ab3be17.js
+  Cache-Control: public, max-age=31536000, immutable
+/f0e45107-b3fb87956e69fc692194.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-45c4b3c230a58d259ca6.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/davo20019.github.io/
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-51467e561973e1e0fb3a.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/blog
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-5f2eab8dd5ed29e02070.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/tags
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-684318e1a3f43a9e8675.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/introduction-to-defence-against-the-dark-arts
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/introduction-to-defence-against-the-dark-arts/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/fantastic-beasts-and-where-to-find-them
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/fantastic-beasts-and-where-to-find-them/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/curses-counter-curses-and-more
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/curses-counter-curses-and-more/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/harry-potter-and-the-half-blood-prince
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1d35a1eea9c8a29ea6bd.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/harry-potter-and-the-half-blood-prince/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/about
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-e0dfdae6944ed088fa3e.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/tags/dark-arts
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/tags/dark-arts/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/tags/highlight
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/tags/highlight/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/tags/novel
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/tags/novel/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/tags/tutorial
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </davo20019.github.io/aed2e917f30c051bccba91aa15989a75fd0bd633-8c067c2389ae604ea00d.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-e0b5232a7a0498eb5e93.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/tags/tutorial/page-data.json>; rel=preload; as=fetch; crossorigin
+/davo20019.github.io/offline-plugin-app-shell-fallback/
+  Link: </davo20019.github.io/webpack-runtime-ccec649333aa2009a959.js>; rel=preload; as=script
+  Link: </davo20019.github.io/framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </davo20019.github.io/f0e45107-b3fb87956e69fc692194.js>; rel=preload; as=script
+  Link: </davo20019.github.io/app-45c4b3c230a58d259ca6.js>; rel=preload; as=script
+  Link: </davo20019.github.io/component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js>; rel=preload; as=script
+  Link: </davo20019.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </davo20019.github.io/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
