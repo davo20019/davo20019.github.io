@@ -26,7 +26,7 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ccec649333aa2009a959.js"
+    "url": "webpack-runtime-dab08ee5de84fd94c6e4.js"
   },
   {
     "url": "framework-f600a0dcdbbe2ab3be17.js"
@@ -35,14 +35,14 @@ self.__precacheManifest = [
     "url": "f0e45107-b3fb87956e69fc692194.js"
   },
   {
-    "url": "app-45c4b3c230a58d259ca6.js"
+    "url": "app-a9d6e3cd6443746422c0.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "0160ed8bc90cf9068972c2a672c9e171"
+    "revision": "2e08cc137cad27c4e944645ddced3f6b"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -50,7 +50,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "5db68097c3d68242539cc267ff5e2bc0"
+    "revision": "f035de13ad44f4e26482ec45f0fad745"
   },
   {
     "url": "manifest.json",
@@ -58,7 +58,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "78e9fd6501e688ee0450565118b2feb6"
+    "revision": "4affd20f7b57655a2594ce5b3a895100"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
@@ -77,12 +77,12 @@ const { NavigationRoute } = workbox.routing
 
 const navigationRoute = new NavigationRoute(async ({ event }) => {
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/davo20019.github.io`), ``)
+  pathname = pathname.replace(new RegExp(`^/davidloor.com`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/davo20019.github.io/app-45c4b3c230a58d259ca6.js`))) {
+  if (!resources || !(await caches.match(`/davidloor.com/app-a9d6e3cd6443746422c0.js`))) {
     return await fetch(event.request)
   }
 
@@ -95,7 +95,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/davo20019.github.io/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/davidloor.com/offline-plugin-app-shell-fallback/index.html`
   return await caches.match(offlineShell)
 })
 
