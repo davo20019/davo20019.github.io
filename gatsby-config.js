@@ -3,8 +3,10 @@ require(`dotenv`).config({
 })
 
 module.exports = {
+  pathPrefix: "/davidloor.com",
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `David Loor`,
+    siteTitleAlt: `David Loor M.`,
   },
   plugins: [
     {
@@ -24,11 +26,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/davo20019`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Github`,
+            url: `https://github.com/davo20019`,
           },
         ],
       },
